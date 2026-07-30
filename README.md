@@ -6,9 +6,8 @@
 
 ### Embedded Systems • Robotics • IoT • Electronics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=650&lines=Embedded+Systems+Developer;Electronics+%26+Robotics+Enthusiast;ESP32+%7C+STM32+%7C+Raspberry+Pi;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;ESP32+•+STM32+•+Raspberry+Pi;Electronics+%26+Robotics+Enthusiast;Linux+•+PCB+Design+•+IoT"/>
 
-![](https://komarev.com/ghpvc/?username=MiteshGorad&style=for-the-badge&color=brightgreen)
 
 </div>
 
