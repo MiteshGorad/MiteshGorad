@@ -26,90 +26,39 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode,linux,arduino,raspberrypi"/>
 
 </p>
 
-### Embedded
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PIC18F4520-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/8051-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/8051-444444?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/MPLAB_X_IDE-CC0000?style=for-the-badge"/>
 
-### Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
-
-<img src="https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XC8_Compiler-00599C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MPLAB%20X-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keil_uVision-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 4DOF Robot Arm
-
-ESP32 powered robotic arm controlled using potentiometers and WebSocket remote interface.
-
----
-
-### 📱 DIY ESP32 Phone
-
-SIM800L + ESP32-C3 + OLED + Audio + Custom PCB
-
----
-
-### 🌾 Smart Irrigation System
-
-IoT based automatic irrigation using ESP8266.
-
----
-
-### 🏭 Industrial Safety Monitoring
-
-Gas Detection • Temperature • Motion Monitoring • LCD Alerts
-
----
-
-### 🗣 Offline Voice Assistant
-
-Runs completely offline using
-
-- Vosk
-- Piper TTS
-- Python
-- Debian Linux
-
----
 
 # 📈 GitHub Analytics
 
