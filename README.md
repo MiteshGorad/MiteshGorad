@@ -1,65 +1,172 @@
-```md
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Mitesh Gorad"/>
+<img src="./ascii.svg" width="420" alt="Mitesh Gorad"/>
 
-<img src="./stats.svg" width="620" alt="GitHub Statistics"/>
+# Hi there 👋 I'm Mitesh Gorad
 
-[github.com/MiteshGorad](https://github.com/MiteshGorad)
+### Embedded Systems • Robotics • IoT • Electronics
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=650&lines=Embedded+Systems+Developer;Electronics+%26+Robotics+Enthusiast;ESP32+%7C+STM32+%7C+Raspberry+Pi;Building+Real+World+Projects"/>
+
+![](https://komarev.com/ghpvc/?username=MiteshGorad&style=for-the-badge&color=brightgreen)
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="About"/>
+---
 
-> M.Sc. Computer Science student from Pune, India.<br>
-> Passionate about Embedded Systems, Robotics, Linux, and Open Source.
+# 👨‍💻 About Me
 
-I enjoy designing hardware and software that work together—from embedded
-firmware and IoT devices to robotic systems and Linux-based projects.
-Currently exploring ESP32, Raspberry Pi, STM32, PCB design, and automation.
+- 🎓 M.Sc Computer Science Student
+- ⚡ Embedded Systems Developer
+- 🤖 Passionate about Robotics
+- 🔌 PCB Design & Electronics
+- 🌱 Currently learning RTOS & Embedded Linux
+- 🚀 Building IoT & Automation Projects
+- ❤️ Linux user (Debian)
 
-<img src="./hd-stack.svg" width="620" alt="Tech Stack"/>
+---
 
-<samp>C &nbsp; Python &nbsp; Java &nbsp; Embedded C &nbsp; Arduino &nbsp; ESP32 &nbsp; STM32 &nbsp; Raspberry Pi &nbsp; Linux &nbsp; KiCad &nbsp; Git</samp>
+# 🛠 Tech Stack
 
-<img src="./hd-projects.svg" width="620" alt="Projects"/>
+### Languages
 
-**🤖 4-DOF Robotic Arm** &nbsp;·&nbsp; <samp>ESP32, Servo Motors</samp><br>
-A robotic arm controlled using potentiometers with a responsive web interface
-for future wireless control.
+<p>
 
-**📡 Offline Voice Assistant** &nbsp;·&nbsp; <samp>Python, Vosk, Piper TTS</samp><br>
-A privacy-focused offline voice assistant running on Linux using local speech
-recognition and text-to-speech.
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
 
-**🌱 Smart IoT Projects** &nbsp;·&nbsp; <samp>ESP32, Sensors</samp><br>
-Embedded automation projects including smart irrigation, monitoring systems,
-and IoT experiments.
+</p>
 
-**🔧 Electronics & Robotics** &nbsp;·&nbsp; <samp>Embedded Systems</samp><br>
-Learning PCB design, embedded firmware, Linux development, and building
-custom robotics hardware.
+### Embedded
 
-<img src="./hd-stats.svg" width="620" alt="Statistics"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PIC18F4520-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/8051-222222?style=for-the-badge"/>
+
+</p>
+
+### Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
+
+<img src="https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MPLAB%20X-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 4DOF Robot Arm
+
+ESP32 powered robotic arm controlled using potentiometers and WebSocket remote interface.
+
+---
+
+### 📱 DIY ESP32 Phone
+
+SIM800L + ESP32-C3 + OLED + Audio + Custom PCB
+
+---
+
+### 🌾 Smart Irrigation System
+
+IoT based automatic irrigation using ESP8266.
+
+---
+
+### 🏭 Industrial Safety Monitoring
+
+Gas Detection • Temperature • Motion Monitoring • LCD Alerts
+
+---
+
+### 🗣 Offline Voice Assistant
+
+Runs completely offline using
+
+- Vosk
+- Piper TTS
+- Python
+- Debian Linux
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="./streak.svg" width="620" alt="GitHub Streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiteshGorad&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="./langs.svg" width="620" alt="Top Languages"/>
-
-<img src="./year.svg" width="620" alt="Contribution Graph"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiteshGorad&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="About this Page"/>
+---
 
-Every graphic on this profile is generated automatically using GitHub Actions.
-The statistics are fetched from the GitHub GraphQL API and updated daily,
-committing changes only when needed.
+<div align="center">
 
-The SVG graphics are self-hosted inside this repository, so nothing depends on
-external services while viewing this profile.
+<img src="https://streak-stats.demolab.com?user=MiteshGorad&theme=github-dark-blue&hide_border=true"/>
 
-Built with ❤️ using GitHub Actions, Python, SVG, and Git.
-```
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MiteshGorad&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiteshGorad&theme=github-dark"/>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:miteshgorad04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/MiteshGorad">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/miteshgorad">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Turning ideas into hardware, one PCB at a time."
+
+</div>
