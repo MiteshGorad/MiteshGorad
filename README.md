@@ -1,75 +1,65 @@
+```md
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" width="460" alt="Mitesh Gorad"/>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+<img src="./stats.svg" width="620" alt="GitHub Statistics"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[github.com/MiteshGorad](https://github.com/MiteshGorad)
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+<img src="./hd-about.svg" width="620" alt="About"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+> M.Sc. Computer Science student from Pune, India.<br>
+> Passionate about Embedded Systems, Robotics, Linux, and Open Source.
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+I enjoy designing hardware and software that work together—from embedded
+firmware and IoT devices to robotic systems and Linux-based projects.
+Currently exploring ESP32, Raspberry Pi, STM32, PCB design, and automation.
 
-<img src="./hd-stack.svg" width="620" alt="stack"/>
+<img src="./hd-stack.svg" width="620" alt="Tech Stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>C &nbsp; Python &nbsp; Java &nbsp; Embedded C &nbsp; Arduino &nbsp; ESP32 &nbsp; STM32 &nbsp; Raspberry Pi &nbsp; Linux &nbsp; KiCad &nbsp; Git</samp>
 
-<img src="./hd-projects.svg" width="620" alt="projects"/>
+<img src="./hd-projects.svg" width="620" alt="Projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
-AI short-form video editor in the browser. Auto captions with accents,<br>
-drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+**🤖 4-DOF Robotic Arm** &nbsp;·&nbsp; <samp>ESP32, Servo Motors</samp><br>
+A robotic arm controlled using potentiometers with a responsive web interface
+for future wireless control.
 
-**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
+**📡 Offline Voice Assistant** &nbsp;·&nbsp; <samp>Python, Vosk, Piper TTS</samp><br>
+A privacy-focused offline voice assistant running on Linux using local speech
+recognition and text-to-speech.
 
-**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
+**🌱 Smart IoT Projects** &nbsp;·&nbsp; <samp>ESP32, Sensors</samp><br>
+Embedded automation projects including smart irrigation, monitoring systems,
+and IoT experiments.
 
-**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+**🔧 Electronics & Robotics** &nbsp;·&nbsp; <samp>Embedded Systems</samp><br>
+Learning PCB design, embedded firmware, Linux development, and building
+custom robotics hardware.
 
-<img src="./hd-stats.svg" width="620" alt="stats"/>
+<img src="./hd-stats.svg" width="620" alt="Statistics"/>
 
 <div align="center">
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+<img src="./streak.svg" width="620" alt="GitHub Streak"/>
 
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img src="./langs.svg" width="620" alt="Top Languages"/>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+<img src="./year.svg" width="620" alt="Contribution Graph"/>
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+<img src="./hd-about-this-page.svg" width="620" alt="About this Page"/>
 
-Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a photo pushed through a character ramp by<br>
-[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
-these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
-straight from the GitHub GraphQL API, once a day, committing only what changed.
+Every graphic on this profile is generated automatically using GitHub Actions.
+The statistics are fetched from the GitHub GraphQL API and updated daily,
+committing changes only when needed.
 
-They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
-rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
-strips CSS, so an image is the only way to put this page's own typeface on them.
+The SVG graphics are self-hosted inside this repository, so nothing depends on
+external services while viewing this profile.
 
-The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
-each graphic draws and inlined as base64. That isn't only for looks: the<br>
-portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
-default monospace is narrower would otherwise see it squeezed.
-
-Language totals cover public repositories only. `year.svg` uses the portrait's<br>
-character ramp: `:` `+` `#` `@`, quiet to loud.
+Built with ❤️ using GitHub Actions, Python, SVG, and Git.
+```
